@@ -1,2 +1,2 @@
 # my-projects
-Various projects of differnt technologies are present here
+Various projects of different technologies are present here
